@@ -162,14 +162,7 @@ a.dropdown-item {
         text-align: center;
         margin-bottom: -4px;
     }
-    .nav-item:hover:before{
-        width:0;
-      
-      }
-    .nav-item:hover{
-       background-color: #000;
-      
-      }
+    
 
     
 }

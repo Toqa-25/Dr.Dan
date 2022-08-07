@@ -167,7 +167,7 @@ a.dropdown-item {
       
       }
     .nav-item:hover{
-       background-color: #000;
+        width:0;
       
       }
 
