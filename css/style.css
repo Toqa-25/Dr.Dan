@@ -15,7 +15,6 @@ body {
     margin: auto;
 }
 
-/* header style */
 
 /* header style */
 header{
@@ -801,14 +800,16 @@ margin-bottom:20px;
 /* strt footer style */
 footer{
     background-color: #2b2b2b;
-    
-}
-.footer-top{
     padding: 35px 0px 35px 0px;
     
 }
+.footer-top{
+    max-width: 1140px;
+    margin: auto;
+    
+}
 .footer-top-content{
-    max-width: 1024px;
+    width:100%;
     display:flex;
 }
 
@@ -876,6 +877,9 @@ footer .footer-icon a:hover{
 }
 .copy-write a{
       text-decoration:none; 
+}
+.footer-bottom {
+    padding: 35px 0px 35px 0px;
 }
 @media (max-width: 1024px){
     .footer-top-content{
